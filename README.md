@@ -80,10 +80,15 @@ A yellow `MOCK MODE` badge appears in the sidebar and footer.
 
 ## File Structure
 
-```
-.
-├── app.py            # Streamlit app — all UI and agent logic
-├── data.py           # Static data: claims, coding rules, policy chunks, mock responses
-├── requirements.txt
-└── README.md
-```
+d:\cotiviti\
+├── Cotiviti_Presentation.pptx
+├── Report.docx
+├── video_presentation.mp4
+│
+└── POC_demo_code\
+    ├── app.py
+    ├── data.py
+    ├── tests.py
+    ├── requirements.txt
+    └── README.md
+
