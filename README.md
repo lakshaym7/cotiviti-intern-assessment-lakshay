@@ -80,6 +80,7 @@ A yellow `MOCK MODE` badge appears in the sidebar and footer.
 
 ## File Structure
 
+```
 d:\cotiviti\
 ├── Cotiviti_Presentation.pptx
 ├── Report.docx
@@ -91,4 +92,4 @@ d:\cotiviti\
     ├── tests.py
     ├── requirements.txt
     └── README.md
-
+```
