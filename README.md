@@ -11,6 +11,7 @@ All patient data is **entirely synthetic and fictional**.
 ## Quick Start
 
 ```bash
+Go to cd D:\cotiviti>cd POC_demo_code
 # 1. Install dependencies
 pip install -r requirements.txt
 
